@@ -56,3 +56,9 @@
 #footer a {
   color: white;
 }
+
+
+#speakers img {
+  height: 348px;
+  object-fit: cover;
+}
